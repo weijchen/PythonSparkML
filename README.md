@@ -1,6 +1,6 @@
 # PythonSparkML
 
-Python Spark ML（一）：參加辦法
+Python Spark ML（一）：參加辦法\n
 http://hemingwang.blogspot.hk/2017/09/python-spark-ml.html
 
 Python Spark ML（二）：Machine Learning
